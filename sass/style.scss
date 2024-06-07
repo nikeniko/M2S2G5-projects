@@ -1,0 +1,12 @@
+@import "./partials/bootstrap-overrides";
+
+footer {
+  color: #858585;
+  svg {
+    fill: #858585;
+  }
+  a {
+    color: #858585;
+    text-decoration: none;
+  }
+}
